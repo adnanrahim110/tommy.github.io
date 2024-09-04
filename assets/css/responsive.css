@@ -1,0 +1,61 @@
+@media screen and (max-width: 480px) {
+    .hero_area {height: 700px;}
+    .hero-heading {height: 100px;}
+    .hero-heading img {height: 150px;}
+    .hero-text {padding-top: 20px; text-align: center; height: 100%; margin-bottom: 20px;}
+    .hero-text h3 {font-size: 18px; font-weight: 700;}
+    .hero-text p {font-weight: normal; font-size: 13px;}
+    .hero-img {left: -40px; top: -25px;}
+    .hero-img img {width: 100%;}
+    .us_section .us_container .box {margin-bottom: 30px;}
+    .cta {background: #2B3C46; text-align: center;}
+    .cta-text {margin-bottom: 30px;}
+    .heading_container h2 {text-align: start;}
+    .testimonial {margin-bottom: 50px;} .last-t {margin-bottom: 0;}
+    .contact4 .contact-box {padding-block: 3rem;}
+    .info_items {width: 100%; flex-wrap: wrap;}
+    .info_items .item .detail-box {font-size: 12px;}
+}
+
+@media screen and (min-width: 481px) and (max-width: 768px) {
+    .hero_area {height: 700px;}
+    .hero-heading {height: 100px;}
+    .hero-heading img {height: 150px;}
+    .hero-heading h1 {font-size: 35px;}
+    .hero-text {height: 100%; padding-top: 20px; text-align: center;}
+    .hero-text h3 {font-size: 20px;}
+    .hero-text p {font-size: 14px; font-weight: normal; padding-inline: 20px;}
+    .hero-img {left: 10px; top: -10px;}
+    .hero-img img {width: 80%;}
+    .our-team {margin-bottom: 50px;}
+    .heading_container {justify-content: center;}
+    .cta {background: #2B3C46; text-align: center; padding-inline: 20px;}
+    .cta h2 {font-size: 28px;}
+    .cta-btns {margin-top: 30px;}
+    .testimonial {margin-bottom: 50px;}
+    .last-t {margin-bottom: 0;}
+    .contact4 .contact-box {padding: 3rem;}
+    .info_items {width: 90%;}
+}
+
+@media screen and (min-width: 769px) and (max-width: 992px) {
+    .hero_area {height: 720px;}
+    .hero-banner {padding-top: 70px;}
+    .hero-heading img {height: 150px;}
+    .hero-text {height: 100%; margin-bottom: 0; padding-top: 0; text-align: center;}
+    .hero-img {top: -20px;}
+    .hero-img
+    .us_section .us_container .box {margin-bottom: 50px;}
+    .heading_container {justify-content: center;}
+    .cta h2 {font-size: 30px;}
+}
+
+@media screen and (min-width: 993px) and (max-width: 1200px) {
+    .hero_area {height: 485px;}
+    .hero-text {padding-top: 0px;}
+    .hero-img img {width: 140%;}
+    .hero-text h3 {font-size: 20px;}
+    .hero-text p {font-weight: normal; font-size: 15px;}
+    .p-md-00 {padding-right: 0;}
+    .wht {font-size: 25px;}
+}
